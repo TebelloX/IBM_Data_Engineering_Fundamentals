@@ -2,6 +2,6 @@
 
 ## Includes:
 
-### API and Webscraping. 
-### Python Extract, Transform, and Load pipeline.
-### Stock Price Plot
+### 1) API and Webscraping. 
+### 2) Python Extract, Transform, and Load pipeline.
+### 3) Stock Price Plot
